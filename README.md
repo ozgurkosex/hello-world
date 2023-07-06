@@ -1,10 +1,10 @@
-# C Programming Language Dojo
+# Hello World Examples
 
-This is a C programming Language repository 
+Hello world examples with various programming languages
 
 # License
 
-This is a C programming Language repository 
+Hello world examples with various programming languages
 
 Copyright (C) Malik Özgür Köse and contributors
 
